@@ -6,6 +6,8 @@ output: html_notebook
 
 2018-02-27 - Basel, Switzerland - Using earth observation (EO) data products for environmental exposure assessment
 
+Note: if you don't use [git lfs](https://git-lfs.github.com/), the data for this repository is also on [Dropbox](https://www.dropbox.com/sh/4musvei5968pix8/AABbWfJ7ORNEA_eOIMhliM4Ha?dl=0)bWfJ7ORNEA_eOIMhliM4Ha?dl=0)
+
 ---
 
 ## Introduction
